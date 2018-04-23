@@ -1,0 +1,61 @@
+
+
+body{
+	background-image:url(5.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+form input{
+	border-radius: 4px;
+	padding:5px;
+}
+
+
+.joy{
+	margin:auto;
+	height:450;
+	width:500;
+	background-color:rgba(0,0,0,0.1);
+	margin-top:200px;
+	padding-left:250px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 10px;
+}
+.php{
+	background-color: rgba(224,224,224,0.3);
+	height:200px;
+	width:500px;
+	margin:auto;
+	border-radius: 10px;
+	padding: 10px 10px 10px 10px;
+	color:white;
+	text-align:center;
+
+
+}
+.php1{
+	background-color: rgba(64,64,64,0.7);
+	height:220px;
+	width:525px;
+	margin:auto;
+	border-radius: 10px;
+	padding: 10px 10px 10px 10px;
+
+}
+button
+{
+	background: #FFCC02;
+    border: none;
+    padding: 10px 25px 10px 25px;
+    color: #585858;
+    border-radius: 4px;
+    text-shadow: 1px 1px 1px #FFE477;
+    font-weight: bold;
+    box-shadow: 1px 1px 1px #3D3D3D;
+   
+}
+button:hover {
+    color: #333;
+    background-color: #EBEBEB;
+}
